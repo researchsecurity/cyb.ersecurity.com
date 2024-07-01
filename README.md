@@ -19,4 +19,4 @@
 
 ## 🚀 Introduction
 
-**Welcome to the "I can't believe he's gone" Malware Analysis project!** This repository offers a comprehensive analysis, essential tools, and detailed reports on a specific malware campaign. Our objective is to shed light on the campaign's methodologies, tactics, and impact, alongside providing effective tools for detection and prevention. The "I Can't Believe He's Gone" malware is a skeleton frame of malvertising, which has a very large and ephemeral footprint.
+**Welcome to the Malware Analysis project!** This repository offers a comprehensive analysis, essential tools, and detailed reports on a specific malware campaign. Our objective is to shed light on the campaign's methodologies, tactics, and impact, alongside providing effective tools for detection and prevention. The malware is a skeleton frame of malvertising, which has a very large and ephemeral footprint.
